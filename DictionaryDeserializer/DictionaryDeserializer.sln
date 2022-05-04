@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryDeserializer", "DictionaryDeserializer\DictionaryDeserializer.csproj", "{913D00AE-F7F8-4361-8A11-F711B6B98D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryDeserializer.Tests", "DictionaryDeserializer.Tests\DictionaryDeserializer.Tests.csproj", "{49C0EAC2-E0EC-4B45-96C1-14D5C3123C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913D00AE-F7F8-4361-8A11-F711B6B98D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913D00AE-F7F8-4361-8A11-F711B6B98D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913D00AE-F7F8-4361-8A11-F711B6B98D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913D00AE-F7F8-4361-8A11-F711B6B98D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C0EAC2-E0EC-4B45-96C1-14D5C3123C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C0EAC2-E0EC-4B45-96C1-14D5C3123C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C0EAC2-E0EC-4B45-96C1-14D5C3123C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C0EAC2-E0EC-4B45-96C1-14D5C3123C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

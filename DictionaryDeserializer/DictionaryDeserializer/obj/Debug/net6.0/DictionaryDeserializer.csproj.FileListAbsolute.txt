@@ -1,0 +1,12 @@
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\obj\Debug\net6.0\DictionaryDeserializer.csproj.AssemblyReference.cache
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\obj\Debug\net6.0\DictionaryDeserializer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\obj\Debug\net6.0\DictionaryDeserializer.AssemblyInfoInputs.cache
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\obj\Debug\net6.0\DictionaryDeserializer.AssemblyInfo.cs
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\obj\Debug\net6.0\DictionaryDeserializer.csproj.CoreCompileInputs.cache
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\obj\Debug\net6.0\DictionaryDeserializer.dll
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\obj\Debug\net6.0\refint\DictionaryDeserializer.dll
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\obj\Debug\net6.0\DictionaryDeserializer.pdb
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\bin\Debug\net6.0\DictionaryDeserializer.deps.json
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\bin\Debug\net6.0\DictionaryDeserializer.dll
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\bin\Debug\net6.0\DictionaryDeserializer.pdb
+c:\Users\yaggod\source\repos\DictionaryDeserializer\DictionaryDeserializer\DictionaryDeserializer\obj\Debug\net6.0\ref\DictionaryDeserializer.dll
